@@ -6,7 +6,7 @@ Hi, I’m MD. Tanvir Hannan Anik.
 
 I’m a student at Daffodil International University in Savar, Dhaka, majoring in Artificial Intelligence under the Computing and Information System department. I work with HTML, CSS, JavaScript, React, and Bootstrap to build clean, user-friendly web applications. I’m also skilled in C programming and currently learning Data Structures and Algorithms , C++ . I want to learn Python and work as an AI Engineer at leading tech companies like Google, Microsoft, or other big names in the industry.
 
-Skills: REACT / JS / HTML / CSS / C 
+Skills: Python / JS / HTML / CSS / C / Java
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
