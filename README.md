@@ -98,32 +98,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tanvir-hannan-anik/tanvir-hannan-anik/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hannan-anik&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🤖 Project 1](https://github.com/tanvir-hannan-anik) | Add your project description here | Python, ML |
-| [📊 Project 2](https://github.com/tanvir-hannan-anik) | Add your project description here | Power BI, SQL |
-| [🌐 Project 3](https://github.com/tanvir-hannan-anik) | Add your project description here | React, Node.js |
-
----
-
 ## 💡 Dev Wisdom
 
 <div align="center">
@@ -139,10 +113,10 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanvir-hannan-anik-20373a364/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tanvir-hannan-anik)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/tanvir-hannan-anik)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanvir-hannan-anik)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tanvir-hannan-anik)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdtanvirhannananik)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanvir.anik.988/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanviranik7/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tanviranik3799)
 
 </div>
 
